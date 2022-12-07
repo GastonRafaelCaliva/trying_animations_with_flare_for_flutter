@@ -1,0 +1,2 @@
+# trying_animations_with_flare_for_flutter
+Probando animaciones para Flutter utilizando Flare
